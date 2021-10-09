@@ -1,4 +1,4 @@
-Fantasy-Football-Prediction
+Fantasy-Football-Prediction---Python-Tableau
 
 The objective of this project was to take fantasy football data for the years 2018, 2019, 2020, and 2021 to predict future values with the aid of machine learning. We made use of datasets from cbssports.com with information for different football players by the positions they play, and the fantasy points they have. The points are given per game, and per tournament season. We took these datasets, and utilized python in order to clean, and transform the data. The following step was to predict the future values with sklearn linear regression and export these findings into a new dataset. Lastly, we used Tableau to make visualizations of our findings, which are presented below.
 
